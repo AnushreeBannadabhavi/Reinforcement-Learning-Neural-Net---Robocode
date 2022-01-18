@@ -3,7 +3,7 @@ Built a robocode tank (a Reinforcement Learning) agent that battles with another
 
 that uses Reinforcement learning and neural net to guide its actions.
 
-Before training the battle looks something like this:
+## Before training the battle looks something like this:
 - Yellow battle tank : Opponent
 - Blue battle tank : My battle tank (Not trained)
 
@@ -12,7 +12,7 @@ Before training the battle looks something like this:
 https://user-images.githubusercontent.com/24989876/149859254-9f67f839-1ae3-40cd-a8dd-006320144fb4.mp4
 
 
-After training:
+## After training:
 
 
 
