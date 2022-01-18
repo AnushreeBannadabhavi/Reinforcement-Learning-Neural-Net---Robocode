@@ -16,7 +16,8 @@ https://user-images.githubusercontent.com/24989876/149859254-9f67f839-1ae3-40cd-
 
 
 ## After training:
-
+- Yellow battle tank : Opponent
+- Blue battle tank : My battle tank (Trained)
 
 
 
