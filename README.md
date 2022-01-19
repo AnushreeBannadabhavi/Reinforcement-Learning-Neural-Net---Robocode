@@ -1,5 +1,6 @@
 # Reinforcement-Learning,Neural-Net-Robocode
-Built a robocode tank (a Reinforcement Learning agent) that battles with another robot (an enemy) and defeats it ~80% of the time. 
+Built a robocode tank (a Reinforcement Learning agent) that battles with another robot (an enemy) and defeats it ~80% of the time. The error backpropagation algorithm as applied to multi-layer perceptron
+and reinforcement learning is used for the robot’s attack or defence strategy
 
 
 ## Before training the battle looks something like this:
